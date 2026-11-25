@@ -1,5 +1,5 @@
-const CACHE = 'praya-ar-feb2fb1e43cb5d51';
-const FILES = ["assets/index-CXQQc-qT.css","assets/index-D-8XbA0-.js","assets/vision_bundle-Cn77874a.js","index.html","mediapipe/hand_landmarker.task","mediapipe/wasm/vision_wasm_internal.js","mediapipe/wasm/vision_wasm_internal.wasm","mediapipe/wasm/vision_wasm_nosimd_internal.js","mediapipe/wasm/vision_wasm_nosimd_internal.wasm"];
+const CACHE = 'praya-ar-330353cc1d70b645';
+const FILES = ["assets/index-Dp9MPo93.css","assets/index-ua05B-RC.js","assets/vision_bundle-Cn77874a.js","index.html","mediapipe/hand_landmarker.task","mediapipe/wasm/vision_wasm_internal.js","mediapipe/wasm/vision_wasm_internal.wasm","mediapipe/wasm/vision_wasm_nosimd_internal.js","mediapipe/wasm/vision_wasm_nosimd_internal.wasm"];
 ﻿/* CACHE and FILES are injected by the build plugin. Never installed in dev. */
 const RUNTIME_CACHE = 'praya-models-v1';
 self.addEventListener('install', event => {
